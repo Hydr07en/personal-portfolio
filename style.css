@@ -1,0 +1,170 @@
+body {
+    margin: 0px;
+    padding: 0px;
+
+}
+
+.name-highlight {
+    color: rgb(101, 235, 235);
+    text-shadow: 2px 2px 2px rgb(101, 104, 247), 4px 2px 5px black;
+}
+
+h1 {
+    font-size: 40px;
+    font-family: 'Days One', sans-serif;
+}
+
+h3{
+    font-family: 'Days One', sans-serif;
+    font-family: 'Marmelad', sans-serif;
+}
+
+.top-p{
+    font-family: 'Days One', sans-serif;
+    font-family: 'Fira Mono', monospace;
+    font-family: 'Marmelad', sans-serif;
+}
+
+.half-width {
+    width: 40%;
+    margin-left: 5%;
+    padding-left: 2%;
+    float: left;
+}
+
+h2{
+    font-family: 'Days One', sans-serif;
+    font-family: 'Fira Mono', monospace;
+    font-family: 'Krub', sans-serif;
+    font-family: 'Marmelad', sans-serif;
+}
+
+.middle-p{
+    font-family: 'Days One', sans-serif;
+    font-family: 'Fira Mono', monospace;
+    font-family: 'Fugaz One', cursive;
+    font-family: 'Krub', sans-serif;
+    font-family: 'Marmelad', sans-serif;
+}
+
+.half-width img {
+    width: 100%;
+}
+
+img {
+    margin-top: 10px;
+}
+
+section {
+    height: 800px;
+}
+
+.link-button {
+    text-decoration: none;
+    background-image: linear-gradient(45deg, rgb(187, 20, 165), rgb(83, 71, 255));
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+    font-family: 'Goldman', cursive;
+}
+
+.top-banner {
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
+
+.link-button {
+    margin-top: 5%;
+}
+
+.bio {
+    background-image: url(images/dream.png);
+    background-repeat: no-repeat;
+    background-position: right;
+
+}
+
+.mid-bio{
+    color: rgb(231, 113, 247);
+    text-shadow: 2px 2px 2px rgb(79, 67, 250), 2px 2px 5px black;
+}
+
+.exeperience{
+    font-family: 'Days One', sans-serif;
+    font-family: 'Fira Mono', monospace;
+    font-family: 'Fugaz One', cursive;
+    font-family: 'Krub', sans-serif;
+    font-family: 'Marmelad', sans-serif;
+    font-family: 'Syncopate', sans-serif;
+}
+
+
+
+.single-box-one {
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 5px;
+    height: 70%;
+    background-color: #fff;
+
+}
+
+
+
+#first-box {
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg, rgb(234, 114, 250), rgb(54, 208, 235));
+    border-image-slice: 1;
+
+}
+
+#second-box {
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg, rgb(24, 24, 248), rgb(187, 32, 248));
+    border-image-slice: 1;
+}
+
+.box-p{
+    font-family: 'Days One', sans-serif;
+    font-family: 'Fira Mono', monospace;
+    font-family: 'Fugaz One', cursive;
+    font-family: 'Gugi', cursive;
+    font-family: 'Krub', sans-serif;
+    font-family: 'Marmelad', sans-serif;
+    font-family: 'Syncopate', sans-serif;
+}
+
+h2 {
+    font-size: 40px;
+}
+
+footer p{
+    text-align: center;
+}
+
+.experiences-are{
+    margin: 0;
+    padding: 0;
+
+
+}
+
+.custom-shape-divider-top-1607240348 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+}
+
+.custom-shape-divider-top-1607240348 svg {
+    position: relative;
+    display: block;
+    width: calc(100% + 1.3px);
+    height: 209px;
+}
+
+.custom-shape-divider-top-1607240348 .shape-fill {
+    fill: #2486f7;
+}
